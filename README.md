@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-In this project, I will be sharing with you the exploratory data analysis that i carried out on the Adventure works database. 
+In this project, I will be sharing with you the exploratory data analysis that i carried out on the Adventure works database using SQL. 
 
 Adventure works is a multinational manufacturing company that produces and distributes bicycles, parts, and accessories for commercial markets in North America, Europe, and Asia. By carrying out this analysis, we will help the company improve its service performance and better serve its customers.
 
