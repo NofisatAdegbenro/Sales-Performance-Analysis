@@ -76,6 +76,10 @@ Business Questions:
 
 - Black Mountain Bikes have the highest order and sales followed by the Road Bikes.
 
+
+  
+![Screenshot (278)](https://github.com/NofisatAdegbenro/Sales-Performance-Analysis/assets/146222025/c72cc247-445a-4893-bc22-1338686938d8)
+
 # You can interact with the dashboard i created [here](https://app.powerbi.com/view?r=eyJrIjoiNWMxNGU2NjctY2Y2Yi00NjZkLWIyOTEtYzA0MjMyYTZkMGM2IiwidCI6IjE4YWE1MWIzLWRiYzAtNGE1Zi1hODExLTMzZmQyMDQ2ZWFjZiJ9)
 
 
